@@ -2,6 +2,10 @@
 
 ## Installation
 
+#### Pre-built binaries
+We offer pre-built binaries for Intel Mac, Mac Silicon, Windows, Linux-glibc, and Linux-musl. You can download them and manually add them to your path or you can use one of several installation options we offer. Checkout [link to website?](?) or our [Github Releases](https://github.com/oxidecomputer/oxide.rs/releases) to get started.
+
+#### From source
 Build with `cargo build --bin oxide` and add the executable in `target/debug` to your `PATH`.
 
 ## Authentication
